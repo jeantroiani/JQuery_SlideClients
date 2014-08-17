@@ -1,0 +1,33 @@
+body 		{
+	background-color:lightblue
+}
+#first	{
+	background-color:pink;
+	height:120px;
+	width: 200px;
+}
+#firstB {
+	background-color:pink;
+	height:20px;
+	width: 200px;
+}
+#secondB{ 
+	background-color:lightgreen;
+	height:20px;
+	width: 200px;
+}
+#second {
+	background-color:lightgreen;
+	height:120px;
+	width: 200px;
+}
+#third 	{
+	background-color:brown;
+	height:120px;
+	width: 200px;
+}
+#thirdB {
+	background-color:brown;
+	height:20px;
+	width: 200px;
+}
